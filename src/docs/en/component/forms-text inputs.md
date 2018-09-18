@@ -87,6 +87,8 @@ Select fields are styled as follows:
     </select>
 </div>
 
+</br>
+
 <codeblock html='
     <div class="mt-2">
         <label for="carSelect">Cars:</label>
@@ -101,4 +103,25 @@ Select fields are styled as follows:
 
 **Focus**: Rectangle with a height of 42px and a border radius of 4px. Stroke width of 1px coloured <badge style="background-color: #269ABC;color:black;">#269ABC</badge>. The drop down control is right-aligned 27px from the edge of the input. The line on the edge is 1px coloured <badge style="background-color: #CCCCCC;color:black;">#CCCCCC</badge> and extends until 5px from the top and bottom of the input. 15 by 27 by 15 by 12. The chevron icon is aligned with the text and is 9px from the left edge, and 18px from the top and bottom.
 
-*Focus select field component*
+<div class="mt-2" style="outline: 1px dotted; outline: 5px auto -webkit-focus-ring-color;">
+    <select id="carSelect" class="form-control">
+    <option value="volvo">Volvo</option>
+    <option value="saab">Saab</option>
+    <option value="mercedes">Mercedes</option>
+    <option value="audi">Audi</option>
+    </select>
+</div>
+
+</br>
+
+<codeblock html='
+    <div class="mt-2">
+        <label for="carSelect">Cars:</label>
+        <select id="carSelect" class="form-control">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="mercedes">Mercedes</option>
+        <option value="audi">Audi</option>
+        </select>
+    </div>
+' react='' />
