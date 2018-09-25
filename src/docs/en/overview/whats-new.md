@@ -20,7 +20,7 @@ September 19, 2018
 
 We’re excited to launch the first iteration of Aurora design system! All of the components we’ve designed and tested with their HTML code can be easily found and copied, including text on how and when to use them.
 
-This is the first iteration, and we are continuing to design new aspects to add to Aurora, as well as adding React.js code for each of our existing components. [See our Github](https://github.com/gctools-outilsgc/design-system-code) to stay up-to-date with what we are working on, or to give feedback about Aurora. Stay tuned for updates as we work on making Aurora even better!
+This is the first iteration, and we are continuing to design new aspects to add to Aurora, as well as adding React.js code for each of our existing components. [See our Github](https://github.com/gctools-outilsgc/design-system-code) repository to stay up-to-date with what we are working on, or to give feedback about Aurora. Stay tuned for updates as we work on making Aurora even better!
 
 
 ### Development Phase II
